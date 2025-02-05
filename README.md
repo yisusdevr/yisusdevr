@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @yisusdevr
 - 👀 I’m interested in Software and all world relationed and design
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on Expo Project 2023
+- 🌱 I’m C#, HTML, CSS, JavaScript, React and others web tools
 - 📫 How to reach me @hisyisus Instagram
 
 <!---
